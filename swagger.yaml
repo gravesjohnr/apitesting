@@ -12,7 +12,7 @@ info:
     name: MIT
     url: http://github.com/gruntjs/grunt/blob/master/LICENSE-MIT
 host: private-07368-swaggerlog.apiary-mock.com
-basePath: /
+basePath: /jrg
 schemes:
   - http
 consumes:
